@@ -1,0 +1,1 @@
+Before started please use composer install and create a Stripe Account.
